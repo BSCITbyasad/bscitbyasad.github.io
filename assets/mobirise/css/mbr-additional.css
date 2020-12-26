@@ -1051,74 +1051,50 @@ a {
   background-color: #232323;
   color: #ffffff;
 }
-.cid-skfpOm2usk {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-ski3trMQE6 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #fafafa;
+}
+.cid-ski3trMQE6 .card-wrapper {
+  padding: 4rem;
   background-color: #ffffff;
-}
-.cid-skfpOm2usk .card-box {
-  padding: 2rem;
-  width: 58.33%;
-}
-.cid-skfpOm2usk .img-wrapper {
-  width: 41.66%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-skfpOm2usk .img1 {
-  background: #ffe161;
-}
-.cid-skfpOm2usk .img2 {
-  background: #6592e6;
-}
-.cid-skfpOm2usk .mbr-iconfont {
-  display: block;
-  font-size: 8rem;
-  color: #ffffff;
-  margin-bottom: 2rem;
-}
-.cid-skfpOm2usk .card {
-  margin: auto;
-  min-height: 280px;
-  transition: all 0.3s;
-}
-.cid-skfpOm2usk .card-wrapper {
-  background: #fafafa;
   border-radius: 4px;
-  display: flex;
-  overflow: hidden;
-  justify-content: space-between;
+}
+.cid-ski3trMQE6 .row {
+  align-items: flex-start;
 }
 @media (max-width: 992px) {
-  .cid-skfpOm2usk .card-wrapper {
-    margin-bottom: 2rem;
+  .cid-ski3trMQE6 .card {
+    margin-bottom: 2rem !important;
   }
 }
 @media (max-width: 767px) {
-  .cid-skfpOm2usk .card-wrapper {
-    flex-direction: column;
-  }
-  .cid-skfpOm2usk .card-box {
+  .cid-ski3trMQE6 .card-wrapper {
     padding: 1rem;
   }
-  .cid-skfpOm2usk .card-box,
-  .cid-skfpOm2usk .img-wrapper {
-    width: 100%;
-  }
-  .cid-skfpOm2usk .img-wrapper {
-    padding: 4rem 1rem;
-  }
-  .cid-skfpOm2usk .mbr-flex {
-    flex-direction: column-reverse;
-  }
 }
-.cid-skfpOm2usk .card-subtitle {
-  color: #0077ff;
+.cid-ski3trMQE6 ul {
+  list-style: none;
 }
-.cid-skfpOm2usk .mbr-text,
-.cid-skfpOm2usk .link-wrap {
-  color: #555555;
+.cid-ski3trMQE6 li {
+  position: relative;
+}
+.cid-ski3trMQE6 li:before {
+  position: absolute;
+  left: -30px;
+  top: 50%;
+  transform: translateY(-50%);
+  content: "\e908";
+  font-family: 'Moririse2' !important;
+  color: #6592e6;
+  font-size: 0.8rem;
+}
+.cid-ski3trMQE6 .mbr-section-btn {
+  width: 100%;
+}
+.cid-ski3trMQE6 .btn {
+  width: 100%;
 }
 .cid-skfgoew1de {
   padding-top: 1rem;
